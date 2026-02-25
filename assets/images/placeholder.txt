@@ -1,0 +1,17 @@
+This directory is for storing website images.
+
+Recommended image structure:
+- hero-bg.jpg (Hero section background)
+- about-us.jpg (About section image)
+- service-1.jpg to service-6.jpg (Service images)
+- gallery-1.jpg to gallery-6.jpg (Gallery images)
+- logo.png (Company logo)
+- team-photos/ (Team member photos)
+- before-after/ (Before and after installation photos)
+
+Image optimization tips:
+- Use WebP format when possible
+- Compress images for web
+- Maintain aspect ratios
+- Use descriptive filenames
+- Include alt text for accessibility 

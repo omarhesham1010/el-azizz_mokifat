@@ -1,0 +1,41 @@
+{
+  "name": "el-azizz",
+  "version": "1.0.0",
+  "description": "Professional Arabic website for ElBuwardi air conditioning company",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "npx live-server --port=8000",
+    "build": "echo 'No build process needed for static site'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "arabic",
+    "website",
+    "air-conditioning",
+    "saudi-arabia",
+    "riyadh",
+    "responsive",
+    "rtl"
+  ],
+  "author": "El-Azizz",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/el-azizz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/el-azizz/issues"
+  },
+  "homepage": "https://el-azizz.netlify.app"
+}
